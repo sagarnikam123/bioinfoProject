@@ -1,0 +1,22 @@
+#for writing dipeptide
+
+
+raunak<-read.table("C:/Users/exam/Desktop/Halwa/BADMASHI/aa_freq_ek_kalsa.txt")
+
+savan<-as.character(raunak[,2])
+
+dhund_toli<-NULL
+
+for(i in 1:(length(savan)-1)){
+
+  aa_bekhabar<-as.character(raunak[i,2])    #takes single aa residue of i th
+  pardesi<-as.character(raunak[i+1,2])      #takes single next aa residue of i+1 th
+  di_aa<-paste(aa_bekhabar,pardesi,sep="")
+  bara_bhai<-c(di_aa,raunak[i,2],raunak[i,3])
+  dhund_toli<-rbind(dhund_toli,bara_bhai,deparse.level=0) 
+  
+  }  # for ends
+  
+  
+  write.table(dhund_toli,"C:\Users\exam\Desktop\Halwa\BADMASHI\\street_two_maula.txt",col.names=F,row.names=F)
+  

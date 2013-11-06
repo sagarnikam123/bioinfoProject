@@ -1,0 +1,49 @@
+#calculates floated potential values  from three state freq value
+
+rm(list=ls())
+
+
+gum_freq<-read.table("C:/Users/exam/Desktop/Halwa/BADMASHI/total_aa_ultimatum.txt")
+N<-as.double(sum(gum_freq$V2))  #stores No of amino acid residues in all proteins
+
+pukar<-read.table("C:/Users/exam/Desktop/Halwa/BADMASHI/aa_freq_ek_kalsa.txt")
+
+N_sum_1_state<-as.double(sum(pukar$V2))  #addition of only first state of all AA residues in columan wise
+N_sum_2_state<-as.double(sum(pukar$V3))  #second state
+N_sum_3_state<-as.double(sum(pukar$V4))  #third state
+
+e<-as.character(pukar[,1])  #takes all amino acid residues as characters
+
+chapari_latika<-NULL
+
+for( i in seq_along(e) ){
+
+aa_aaina<-as.character(pukar[i,1])  #takes amino acid as character
+
+N_AA_row<-as.double(sum(pukar[i,2],pukar[i,3],pukar[i,4]))   #addition of all states of AA residues in row wise
+
+khushi<-as.double((pukar[i,2]*N)/(N_AA_row*N_sum_1_state))    #first state potential value
+
+salvi_volvo<-as.double((pukar[i,3]*N)/(N_AA_row*N_sum_2_state))    #second state potential value
+
+parnakuti<-as.double((pukar[i,4]*N)/(N_AA_row*N_sum_3_state))    #third state potential value
+
+phir_se<-c(aa_aaina,khushi,salvi_volvo,parnakuti)
+
+
+chapari_latika<-rbind(chapari_latika,phir_se,deparse.level=0)
+}  # for ends
+
+write.table(chapari_latika,"C:\\Users\\exam\\Desktop\\Halwa\\BADMASHI\\chocolate_potential.txt",col.names=F,row.names=F)
+
+
+
+
+
+
+
+
+
+
+
+
