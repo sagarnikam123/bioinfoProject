@@ -4,8 +4,6 @@
 ### a project for fulfillment of M.Sc (Master of Science) in Bioinformatics.
 
 
-### Roll No: BIM-2010-20
-
 ## Concepts
 
 - [Time series](http://en.wikipedia.org/wiki/Time_series "Wikipedia")
@@ -28,9 +26,9 @@ single amino acid residue in allowed conformational regions of Ramachandran plot
 
 ## Peoples
 
-- [Sagar Nikam](http://www.linkedin.com/in/sagarnikam123 "LinkedIn")(**Student**), BIM-2010-20
-- [Dr. Sangeet Sawant](http://www.linkedin.com/pub/sangeeta-sawant/2/a8/873 "LinkedIn") (**Guide**), Bioinformatics Center, University of Pune, Pune
-- [Dr. Mohan Kale](http://www.linkedin.com/pub/mohan-kale/59/aa4/86 "LinkedIn") (**Co-guide**), Dept. of Statistics, University of Pune, Pune
+- [Sagar Nikam](http://www.linkedin.com/in/sagarnikam123 "LinkedIn") (**Student**) BIM-2010-20
+- [Dr. Sangeet Sawant](http://www.linkedin.com/pub/sangeeta-sawant/2/a8/873 "LinkedIn") (**Guide**) Bioinformatics Center, University of Pune, Pune
+- [Dr. Mohan Kale](http://www.linkedin.com/pub/mohan-kale/59/aa4/86 "LinkedIn") (**Co-guide**) Dept. of Statistics, University of Pune, Pune
 
 
 ## Links
@@ -44,7 +42,6 @@ single amino acid residue in allowed conformational regions of Ramachandran plot
   - [Checking chain breaks of Protein Structure](https://www.youtube.com/watch?v=4lJgV2L2NM0)
   - [Protein phi-psi angle validation using PDB goodies](https://www.youtube.com/watch?v=TzomUZimKLM)
   
-
 
 
 ## Resources
