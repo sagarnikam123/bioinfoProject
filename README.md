@@ -26,10 +26,11 @@ single amino acid residue in allowed conformational regions of Ramachandran plot
   - prediction of missing residues in proteins from PDB
 
 
-## Guide
+## Peoples
 
-- [Dr. Sangeet Sawant](http://www.linkedin.com/pub/sangeeta-sawant/2/a8/873 "LinkedIn"), Bioinformatics Center, University of Pune, Pune
-- [Dr. Mohan Kale](http://www.linkedin.com/pub/mohan-kale/59/aa4/86 "LinkedIn"), Dept. of Statistics, University of Pune, Pune
+- [Sagar Nikam](http://www.linkedin.com/in/sagarnikam123 "LinkedIn")(**Student**), BIM-2010-20
+- [Dr. Sangeet Sawant](http://www.linkedin.com/pub/sangeeta-sawant/2/a8/873 "LinkedIn") (**Guide**), Bioinformatics Center, University of Pune, Pune
+- [Dr. Mohan Kale](http://www.linkedin.com/pub/mohan-kale/59/aa4/86 "LinkedIn") (**Co-guide**), Dept. of Statistics, University of Pune, Pune
 
 
 ## Links
