@@ -29,7 +29,7 @@ single amino acid residue in allowed conformational regions of Ramachandran plot
 ## Guide
 
 - [Dr. Sangeet Sawant](http://www.linkedin.com/pub/sangeeta-sawant/2/a8/873 "LinkedIn"), Bioinformatics Center, University of Pune, Pune
-- [Dr. Mohand Kale](http://www.linkedin.com/pub/mohan-kale/59/aa4/86 "LinkedIn"), Dept. of Statistics, University of Pune, Pune
+- [Dr. Mohan Kale](http://www.linkedin.com/pub/mohan-kale/59/aa4/86 "LinkedIn"), Dept. of Statistics, University of Pune, Pune
 
 
 ## Links
