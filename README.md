@@ -4,6 +4,8 @@
 ### a project for fulfillment of M.Sc (Master of Science) in Bioinformatics.
 
 
+### Roll No: BIM-2010-20
+
 ## Concepts
 
 - [Time series](http://en.wikipedia.org/wiki/Time_series "Wikipedia")
@@ -43,6 +45,7 @@ single amino acid residue in allowed conformational regions of Ramachandran plot
   
 
 
+
 ## Resources
 
 - **Programming**
@@ -58,6 +61,9 @@ single amino acid residue in allowed conformational regions of Ramachandran plot
   - [R Nabble](http://r.789695.n4.nabble.com/ "Homepage")
   - [BioStars](http://www.biostars.org/ "Homepage")
   - [Cross Validated](http://stats.stackexchange.com/ "Homepage")
+
+- **Research Paper**
+  - Prediction of conformational states of amino acids using a Ramachandran plot [link](http://www.ncbi.nlm.nih.gov/pubmed/8907507)
 
 - **Computing**
   - last corner Windows(Vista) desktop, near window, in practical Lab No.1  at [Bioinformatics Center](http://117.239.43.116/index.html "Homepage"), University of Pune, Pune
