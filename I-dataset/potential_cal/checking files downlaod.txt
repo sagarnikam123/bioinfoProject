@@ -1,0 +1,19 @@
+
+
+library(bio3d)
+
+file<-file("C:\\Users\\exam\\Desktop\\Halwa\\pdb_id_list.txt",open="r")
+x<-readLines(file)
+close(file)
+
+er<-list.files("C:\\pdb_vari")
+
+ for(y in x){
+ pdb_file_name<-substr(y,1,4)
+pdb_file_name<-paste(pdb_file_name,".pdb",sep="")
+jine<-pmatch(pdb_file_name,er)
+#print(jine)
+if(is.na(jine)){print(y)}
+
+ }
+
