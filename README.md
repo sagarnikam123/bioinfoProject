@@ -33,6 +33,7 @@ single amino acid residue in allowed conformational regions of Ramachandran plot
 
 ## Links
 
+- [Wiki](http://github.com/sagarnikam/bioinfoProject/wiki)
 - [Project Report](http://dx.doi.org/10.6084/m9.figshare.825377 "Figshare")
 - [Presentation](http://www.slideshare.net/sagarnikam123/bim201020bioinformaticsproject "SlideShare")
 - Videos
@@ -47,7 +48,7 @@ single amino acid residue in allowed conformational regions of Ramachandran plot
 ## Resources
 
 - **Programming**
-  - [R](http://cran.r-project.org/ "CRAN-Homepage"), Java 
+  - [R](http://cran.r-project.org/ "CRAN-Homepage")
   - [RStudio](http://www.rstudio.com/ "Homepage"), [Tinn-R](http://www.sciviews.org/Tinn-R/ "Homepage")
   - packages: [bio3d](http://thegrantlab.org/bio3d/ "Homepage"), [itsmr](http://cran.r-project.org/web/packages/itsmr/), [forecast](http://cran.r-project.org/web/packages/forecast/index.html ), [tseries](http://cran.r-project.org/web/packages/tseries/index.html),[timsac](http://cran.r-project.org/web/packages/timsac/), [wordcloud](http://cran.r-project.org/web/packages/wordcloud/index.html)
 
