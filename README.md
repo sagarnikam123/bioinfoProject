@@ -1,4 +1,4 @@
-# Validation of Time Series Technique for Prediction of Conformational States of Amino Acids
+## Validation of Time Series Technique for Prediction of Conformational States of Amino Acids
 
 
 ### a project for fulfillment of M.Sc (Master of Science) in Bioinformatics.
