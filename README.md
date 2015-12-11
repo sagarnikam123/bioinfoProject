@@ -36,12 +36,14 @@ single amino acid residue in allowed conformational regions of Ramachandran plot
 - [Wiki](http://github.com/sagarnikam/bioinfoProject/wiki)
 - [Project Report](http://dx.doi.org/10.6084/m9.figshare.825377 "Figshare")
 - [Presentation](http://www.slideshare.net/sagarnikam123/bim201020bioinformaticsproject "SlideShare")
-- Videos
-  - [Downloading PDB files in batch](https://www.youtube.com/watch?v=eu1bArR180w)
-  - [Downloading PDB files from internet-funny](https://www.youtube.com/watch?v=m3hZI-2LdyQ)
-  - [ARMA checking](https://www.youtube.com/watch?v=AjJnTOU0yqA)
-  - [Checking chain breaks of Protein Structure](https://www.youtube.com/watch?v=4lJgV2L2NM0)
-  - [Protein phi-psi angle validation using PDB goodies](https://www.youtube.com/watch?v=TzomUZimKLM)
+
+
+- [Bioinformatics-Life at project - Videos](https://youtu.be/m3hZI-2LdyQ?list=PLMUm5MPabhqvffn1s_8KBIbo7otOYKTUu)
+	  - [Downloading PDB files in batch](https://www.youtube.com/watch?v=eu1bArR180w)
+	  - [Downloading PDB files from internet-funny](https://www.youtube.com/watch?v=m3hZI-2LdyQ)
+	  - [ARMA checking](https://www.youtube.com/watch?v=AjJnTOU0yqA)
+	  - [Checking chain breaks of Protein Structure](https://www.youtube.com/watch?v=4lJgV2L2NM0)
+	  - [Protein phi-psi angle validation using PDB goodies](https://www.youtube.com/watch?v=TzomUZimKLM)
   
 
 
