@@ -1,5 +1,8 @@
 ## Validation of Time Series Technique for Prediction of Conformational States of Amino Acids
 
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-brightgreen.svg?style=flat)](https://opensource.org/licenses/Apache-2.0)
+[![License: MIT](https://img.shields.io/badge/License-MIT-red.svg?style=flat)](https://opensource.org/licenses/MIT)
+
 
 ### a project for fulfillment of M.Sc (Master of Science) in Bioinformatics.
 
@@ -68,7 +71,4 @@ single amino acid residue in allowed conformational regions of Ramachandran plot
   - last corner Windows(Vista) desktop, near window, in practical Lab No.1  at [Bioinformatics Center](http://117.239.43.116/index.html "Homepage"), University of Pune, Pune
   - PC of [ManojkumarBhosale](http://www.linkedin.com/pub/manojkumar-bhosale/1b/987/80a "LinkedIn") & Laptop of [Kiran Bankar](http://www.linkedin.com/pub/kiran-bankar/18/208/b98 "LinkedIn"), in University's Boys Hotel No.8, Room No. 512 & 128.
 
-
-## License
-
-[Apache 2.0] (http://www.apache.org/licenses/LICENSE-2.0.html "Apache Licence 2.0") & [MIT](http://opensource.org/licenses/MIT "Licence")
+---
