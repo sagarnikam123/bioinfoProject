@@ -10,7 +10,7 @@
 ## Concepts
 
 - [Time series](http://en.wikipedia.org/wiki/Time_series "Wikipedia")
-- [Protein's secondary structure] (http://en.wikipedia.org/wiki/Protein_secondary_structure "Wikipedia")
+- [Protein's secondary structure](http://en.wikipedia.org/wiki/Protein_secondary_structure "Wikipedia")
 - [Ramachandran Plot](http://en.wikipedia.org/wiki/Ramachandran_plot "Wikipedia")
 - [Feynman Problem Solving Algorithm](http://en.wikipedia.org/wiki/Richard_Feynman "Wikipedia")
 
