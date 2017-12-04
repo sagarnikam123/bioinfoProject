@@ -68,7 +68,7 @@ single amino acid residue in allowed conformational regions of Ramachandran plot
   - Prediction of conformational states of amino acids using a Ramachandran plot [link](http://www.ncbi.nlm.nih.gov/pubmed/8907507)
 
 - **Computing**
-  - last corner Windows(Vista) desktop, near window, in practical Lab No.1  at [Bioinformatics Center](http://117.239.43.116/index.html "Homepage"), University of Pune, Pune
+  - last corner Windows(Vista) desktop, near window, in practical Lab No.1  at [Bioinformatics Center](http://bioinfo.net.in/ "Bioinformatics Center, University of Pune, Homepage"), University of Pune, Pune
   - PC of [ManojkumarBhosale](http://www.linkedin.com/pub/manojkumar-bhosale/1b/987/80a "LinkedIn") & Laptop of [Kiran Bankar](http://www.linkedin.com/pub/kiran-bankar/18/208/b98 "LinkedIn"), in University's Boys Hotel No.8, Room No. 512 & 128.
 
 ---
