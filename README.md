@@ -1,5 +1,6 @@
 ## Validation of Time Series Technique for Prediction of Conformational States of Amino Acids
 
+[![DOI](https://zenodo.org/badge/14169704.svg)](https://zenodo.org/badge/latestdoi/14169704)
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-brightgreen.svg?style=flat)](https://opensource.org/licenses/Apache-2.0)
 [![License: MIT](https://img.shields.io/badge/License-MIT-red.svg?style=flat)](https://opensource.org/licenses/MIT)
 
